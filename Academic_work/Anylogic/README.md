@@ -38,9 +38,4 @@ AnyLogic components used in the team’s capstone project, including:
 
 ---
 
-## Notes
-
-- Some models reference external CSV, SHP, or GIS layers stored in other folders.  
-- Large raw datasets are not included to keep the repository lightweight.  
-- AnyLogic `.alp` files may require version compatibility when opened on newer software versions.
 
